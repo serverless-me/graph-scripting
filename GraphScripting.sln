@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphScripting", "GraphScripting\GraphScripting.csproj", "{00FE4814-4F7B-46C1-A794-FECD1192F3BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsole", "TestConsole\TestConsole.csproj", "{D3C491A3-BEA8-47B8-8F6B-AA1274E0C5CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00FE4814-4F7B-46C1-A794-FECD1192F3BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00FE4814-4F7B-46C1-A794-FECD1192F3BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00FE4814-4F7B-46C1-A794-FECD1192F3BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00FE4814-4F7B-46C1-A794-FECD1192F3BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3C491A3-BEA8-47B8-8F6B-AA1274E0C5CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3C491A3-BEA8-47B8-8F6B-AA1274E0C5CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3C491A3-BEA8-47B8-8F6B-AA1274E0C5CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3C491A3-BEA8-47B8-8F6B-AA1274E0C5CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D49BDECB-B27B-4D76-BFFB-F91672C9DBB7}
+	EndGlobalSection
+EndGlobal

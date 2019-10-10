@@ -1,0 +1,12 @@
+C:\Code\GraphScripting\GraphScripting\bin\Debug\GraphScripting.dll
+C:\Code\GraphScripting\GraphScripting\bin\Debug\GraphScripting.pdb
+C:\Code\GraphScripting\GraphScripting\bin\Debug\Gremlin.Net.dll
+C:\Code\GraphScripting\GraphScripting\bin\Debug\Newtonsoft.Json.dll
+C:\Code\GraphScripting\GraphScripting\bin\Debug\Gremlin.Net.pdb
+C:\Code\GraphScripting\GraphScripting\bin\Debug\Gremlin.Net.xml
+C:\Code\GraphScripting\GraphScripting\bin\Debug\Newtonsoft.Json.xml
+C:\Code\GraphScripting\GraphScripting\obj\Debug\GraphScripting.csprojAssemblyReference.cache
+C:\Code\GraphScripting\GraphScripting\obj\Debug\GraphScripting.csproj.CoreCompileInputs.cache
+C:\Code\GraphScripting\GraphScripting\obj\Debug\GraphScripting.csproj.CopyComplete
+C:\Code\GraphScripting\GraphScripting\obj\Debug\GraphScripting.dll
+C:\Code\GraphScripting\GraphScripting\obj\Debug\GraphScripting.pdb

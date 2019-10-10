@@ -1,0 +1,15 @@
+C:\Code\GraphScripting\TestConsole\bin\Debug\TestConsole.exe.config
+C:\Code\GraphScripting\TestConsole\bin\Debug\TestConsole.exe
+C:\Code\GraphScripting\TestConsole\bin\Debug\TestConsole.pdb
+C:\Code\GraphScripting\TestConsole\bin\Debug\GraphScripting.dll
+C:\Code\GraphScripting\TestConsole\bin\Debug\Gremlin.Net.dll
+C:\Code\GraphScripting\TestConsole\bin\Debug\Newtonsoft.Json.dll
+C:\Code\GraphScripting\TestConsole\bin\Debug\GraphScripting.pdb
+C:\Code\GraphScripting\TestConsole\bin\Debug\Gremlin.Net.pdb
+C:\Code\GraphScripting\TestConsole\bin\Debug\Gremlin.Net.xml
+C:\Code\GraphScripting\TestConsole\bin\Debug\Newtonsoft.Json.xml
+C:\Code\GraphScripting\TestConsole\obj\Debug\TestConsole.csprojAssemblyReference.cache
+C:\Code\GraphScripting\TestConsole\obj\Debug\TestConsole.csproj.CoreCompileInputs.cache
+C:\Code\GraphScripting\TestConsole\obj\Debug\TestConsole.csproj.CopyComplete
+C:\Code\GraphScripting\TestConsole\obj\Debug\TestConsole.exe
+C:\Code\GraphScripting\TestConsole\obj\Debug\TestConsole.pdb
